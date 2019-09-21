@@ -176,6 +176,36 @@ h1, h2, h3, h4, h5, h6 {
   color: black;
 }
 
+.btn-blue {
+  background-color: #0079B3;
+  border-color: #0079B3;
+  color: #FFF !important;
+}
+
+.btn-green {
+  background-color: #00A2A0;
+  border-color: #00A2A0;
+  color: #FFF !important;
+}
+
+.btn-purple {
+  background-color: #5E417C;
+  border-color: #5E417C;
+  color: #FFF !important;
+}
+
+.btn-pink {
+  background-color: #DF5B73;
+  border-color: #DF5B73;
+  color: #FFF !important;
+}
+
+.btn-orange {
+  background-color: #fb7833;
+  border-color: #fb7833;
+  color: #FFF !important;
+}
+
 .social:hover a {
   color: rgba(0, 0, 0, 0.4);
 }
@@ -219,7 +249,11 @@ section.voilet {
 }
 
 section.blue {
-  background-color: #cadfdf;
+  /*background-color: #cadfdf;*/
+  background-color: #0079B3;
+  /*background-color: #405A9E;*/
+  /* background-color: #009BA8; */
+  color: #FFF !important;
 }
 
 section.orange {
@@ -228,7 +262,11 @@ section.orange {
 }
 
 section.green {
-  background-color: #aaffa7;
+  /*background-color: #aaffa7;*/
+  /*background-color: #DC5876;*/
+  /*background-color: #405A9E;*/
+  background-color: #00A2A0;
+  /* background-color: #0079B3; */
 }
 
 section.skin {
@@ -236,7 +274,8 @@ section.skin {
 }
 
 section.aqua {
-  background-color: #00fefe;
+  /*background-color: #00fefe;*/
+  background-color: #FED22B;
   color: #000 !important;
 }
 
